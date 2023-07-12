@@ -1,0 +1,33 @@
+#contact {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .contact-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin-top: 1rem;
+    padding: 0;
+  }
+  
+  .contact-icons li {
+    margin: 0;
+  }
+  
+  .contact-icons a {
+    font-size: 24px;
+    color: #000;
+    transition: color 0.3s;
+    margin: 0 0.5rem; /* Add margin to create spacing between icons */
+  }
+  
+  .contact-icons a:hover {
+    color: #4db5ff;
+  }
+  
+  .contact-icons a:focus {
+    outline: none;
+  }
+  

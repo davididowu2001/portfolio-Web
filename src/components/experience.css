@@ -1,0 +1,47 @@
+.experience_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+  #experience h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+  }
+  
+  .experience_column {
+    background: var(--color-bg-variant);
+    padding: 2.4rem 2.5rem; /* Adjust the padding as per your design */
+    border-radius: 2rem;
+    border: 1px solid transparent;
+  }
+  
+  .experience_column:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .experience_column:hover h3 {
+    color: var(--color-primary);
+  }
+  
+  .experience_details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .experience_details svg {
+    margin-right: 0.5rem;
+  }
+  
+  .text-light {
+    color: var(--color-light);
+  }
+  
+  .experience_content {
+    display: grid;
+    grid-template-columns: 1fr; /* Adjust the number of columns as per your design */
+    row-gap: 2rem;
+  }
+  
