@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <div id="projects">
       <br></br>
-      <br></br>
+     
       <h2>Projects</h2>
       <div className="project-cards">
         <ProjectCard
@@ -28,6 +28,13 @@ const Projects = () => {
           title="Fitness App"
           description="Developed a gym app using Java and Android Studio, featuring functionalities such as searching for nearby gyms, step count, gym routines, and exercise recommendations."
           technologies="Java, Firebase, Android Studio, Google Fitness and Map API, SQL"
+        />
+        <ProjectCard
+          title="Arduino Project"
+          description="The overall goal of this project is managing and displaying channel information on an LCD shield. 
+          It provides functionalities for creating and updating channel attributes, navigating between channels, and validating commands received through serial communication. 
+          The program also includes features like averaging values and managing stored values for each channel"
+          technologies="C/C++"
         />
       </div>
     </div>
