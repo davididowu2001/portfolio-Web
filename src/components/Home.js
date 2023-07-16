@@ -9,7 +9,7 @@ const Home = () => {
       <div className="container">
         <h1>Hi! I'm David</h1>
         <p>
-      I am currently a computer science student keen on learning and this is my portfolio website.
+        I am a passionate and driven computer science student with a strong desire to expand my knowledge and skills in the field. This portfolio website serves as a showcase of my projects, experiences, and abilities. Through my journey in computer science, I have delved into various technologies and languages, honing my problem-solving and development skills. With a curiosity for innovation and a dedication to continuous learning, I strive to make a positive impact through my work. Welcome to my portfolio, where you can explore my projects and get to know more about my journey in the world of technology.
       
       </p>
         <div>

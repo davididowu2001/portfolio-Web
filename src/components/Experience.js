@@ -83,6 +83,24 @@ const Experience = () => {
               <h4>Java </h4>
               <small className='text-light'>Intermediate</small>
             </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill/>
+              <h4>C/C++ </h4>
+              <small className='text-light'>Beginner</small>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill/>
+              <h4>Firebase </h4>
+              <small className='text-light'>Intermediate</small>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill/>
+              <h4>R-shiny </h4>
+              <small className='text-light'>Beginner</small>
+            </article>
+
+
+
 
           </div>
           </div>
