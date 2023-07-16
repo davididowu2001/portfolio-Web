@@ -36,6 +36,28 @@ const Projects = () => {
           The program also includes features like averaging values and managing stored values for each channel"
           technologies="C/C++"
         />
+         <ProjectCard
+         title= 'Library Management System'
+         technologies= 'Python, Tkinter, Matplotlib libraries'
+         description=
+           'Created a library Management System using Tkinter for the GUI and matplotlib for graphical representation for book recommendation.'
+        />
+         <ProjectCard
+         title='Wedding Venue Booking System'
+         technologies='JavaScript, HTML, PHP, CSS'
+         description=
+           'This project improved my skills in front end development and showed me that I preferred backend development.'
+       
+        />
+         <ProjectCard
+          title='Computer Accessories Shop'
+          technologies= 'Java, Swing library'
+          description=
+            'Developed a Computer Accessories Shop software using Java as a programming language and Swing as the GUI.'
+        
+        />
+        
+
       </div>
     </div>
   );
