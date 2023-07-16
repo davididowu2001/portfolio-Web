@@ -30,12 +30,12 @@ const Experience = () => {
             <article className='experience_details'>
               <BsPatchCheckFill/>
               <h4>React </h4>
-              <small className='text-light'> Experienced</small>
+              <small className='text-light'> Intermediate</small>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill/>
               <h4> Bootstrap </h4>
-              <small className='text-light'> Experienced</small>
+              <small className='text-light'>Intermediate</small>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill/>
